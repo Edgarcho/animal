@@ -13,12 +13,22 @@ h1{
   background-color:red;
   font-size: 30px;
 }
+.c1 p{
+  font-weight: bold;
+  color:blue;
+  font-family: cursive;
+}
 .c2{
   width:300px;
   float:center;
   border:2px solid green;
   background-color:yellow;
   font-size: 28px;
+}
+.c2 p{
+  font-weight: bold;
+  color:red;
+  font-family:fantasy;
 }
 .c3{
   width:300px;
